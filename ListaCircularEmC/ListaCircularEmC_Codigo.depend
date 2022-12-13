@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621622686 source:c:\users\vini7\onedrive\documentos\programas em c e c++\listacircularemc_codigo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
